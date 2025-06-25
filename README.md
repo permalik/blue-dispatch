@@ -1,2 +1,2 @@
-# blue-dispatch
-service:LLM Client Schedule and Dispatch
+# yyyoink-dispatch
+service:Compression, Binary, and LLM Toolkit Schedule and Dispatch
