@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("starting blue-dispatch...")
+	fmt.Println("starting yyyoink-dispatch...")
 }

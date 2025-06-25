@@ -22,5 +22,5 @@ WORKDIR /bin
 
 # Copy /nix/store
 COPY --from=builder /tmp/nix-store-closure /nix/store
-COPY --from=builder /tmp/build/result /blue-dispatch
-CMD ["/blue-dispatch/bin/blue-dispatch"]
+COPY --from=builder /tmp/build/result /yyyoink-dispatch
+CMD ["/yyyoink-dispatch/bin/yyyoink-dispatch"]

@@ -1,9 +1,9 @@
 # Prompt
-export PS1="\n\[\e[1;32m\][devshell](blue-dispatch) \w\n❯ \[\e[0m\]"
+export PS1="\n\[\e[1;32m\][devshell](yyyoink-dispatch) \w\n❯ \[\e[0m\]"
 
 # Aliases
-alias docker-build-dev="docker build -t blue-dispatch:dev ."
-alias docker-run-dev="docker run --rm blue-dispatch:dev"
+alias docker-build-dev="docker build -t yyyoink-dispatch:dev ."
+alias docker-run-dev="docker run --rm yyyoink-dispatch:dev"
 alias nv="nvim"
 alias glr="pretty_git_log"
 alias gs="git status"
